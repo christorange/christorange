@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center"> &#60; Hi👋, I'm Christol Yu /&#62; </h1>
+
+- 🔭 I'm a front end developer, sometimes also a UI\UX designer.
+- 💻 I'm currently learning Typescript and TanStack query.  
+- 😜 I also know a little about **physics**, **quantum computing** and **machine learning**. 
+- 📫 Reach me at: christol.yu@outlook.com
+
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,sass,figma,html,css,py,pytorch,md,latex)](https://skillicons.dev)
 
 <!--
 **christorange/christorange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
