@@ -1,6 +1,6 @@
 <h1 align="center"> &#60; Hi👋, I'm Christol Yu /&#62; </h1>
 
-- 🔭 I'm a front end developer, sometimes also a UI\UX designer.
+- 🔭 I'm a front end developer, sometimes also a UI&UX designer.
 
 - 💻 I'm currently learning Typescript and TanStack query.
 
