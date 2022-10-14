@@ -13,6 +13,16 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,sass,figma,html,css,py,pytorch,md,latex"> </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Java             3 hrs 51 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.35 %
+HTML             2 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+JavaScript       2 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+Python           1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+TypeScript       1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+JSON             1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
