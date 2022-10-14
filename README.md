@@ -1,8 +1,8 @@
 <h1 align="center"> &#60; Hi👋, I'm Christol Yu /&#62; </h1>
 
-- 🔭 I'm a front end developer, sometimes also a UI&UX designer.
+- 📚 Student, web developer, sometimes also a UI & UX designer.
 
-- 💻 I'm currently learning Typescript and TanStack query.
+- 💻 Currently learning Vitest and Node.js.
 
 - 😜 I also know a little about **physics**, **quantum computing** and **machine learning**.
 
@@ -11,6 +11,8 @@
 
 <h3 align="center">Skills</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,sass,figma,html,css,py,pytorch,md,latex"> </p>
+
+<br/>
 
 <!--START_SECTION:waka-->
 
