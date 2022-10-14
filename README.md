@@ -12,6 +12,9 @@
 <h3 align="center">Skills</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,sass,figma,html,css,py,pytorch,md,latex"> </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **christorange/christorange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
