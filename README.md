@@ -33,6 +33,6 @@ CSS          16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 📊 Stats
 
-![](https://raw.githubusercontent.com/christorange/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/christorange/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/christorange/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
