@@ -33,6 +33,6 @@ Other        53 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 📊 Stats
 
-![](https://raw.githubusercontent.com/christorange/gitStats/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/christorange/gitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only)
+![overview_dark](https://raw.githubusercontent.com/christorange/githubStats/master/generated/overview.svg#gh-dark-mode-only)
+![overview_light](https://raw.githubusercontent.com/christorange/githubStats/master/generated/overview.svg#gh-light-mode-only)
 
