@@ -14,22 +14,31 @@
 
 <br/>
 
-⏱ Weekly Coding Time
+<p align="center">📊 Github Stats</p>
+<div align="center">
+  
+  ![overview_dark](https://raw.githubusercontent.com/christorange/githubStats/master/generated/overview.svg#gh-dark-mode-only)
+  ![overview_light](https://raw.githubusercontent.com/christorange/githubStats/master/generated/overview.svg#gh-light-mode-only)
+
+</div>
+
 <br/>
-<!--START_SECTION:waka-->
 
-```text
-Total Time: 20 hrs 30 mins
+<p align="center">⏱ Weekly Coding Stat</p>
 
-TypeScript   19 hrs 35 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀   94.05 %
-JSON         28 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.31 %
-Other        19 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.53 %
-```
+<div align="center">
+  
+  <!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
+  ```text
+  Total Time: 20 hrs 30 mins
 
-📊 Stats
+  TypeScript   19 hrs 35 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀   94.05 %
+  JSON         28 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.31 %
+  Other        19 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.53 %
+  ```
 
-![overview_dark](https://raw.githubusercontent.com/christorange/githubStats/master/generated/overview.svg#gh-dark-mode-only)
-![overview_light](https://raw.githubusercontent.com/christorange/githubStats/master/generated/overview.svg#gh-light-mode-only)
+  <!--END_SECTION:waka-->
+  
+</div>
 
