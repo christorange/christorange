@@ -2,7 +2,7 @@
 
 - 📚 Student, web developer, sometimes also a UI & UX designer.
 
-- 💻 Recently learning Svelte.
+- 💻 Recently learning Three.js.
 
 - 😜 I also know a little about **physics**, **quantum computing** and **machine learning**.
 
