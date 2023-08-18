@@ -1,4 +1,6 @@
-<h1 align="center"> &#60; Hi👋, I'm Christol Yu /&#62; </h1>
+<img align='center' src='https://github.com/christorange/christorange/assets/85213835/6deb1e0b-0519-4a1e-bfd4-1194975c4bff'></img>
+
+<br/>
 
 - 📚 Student, web developer, sometimes also a UI & UX designer.
 
