@@ -4,7 +4,7 @@
 
 - 📚 Student, web developer, sometimes also a UI & UX designer.
 
-- 💻 Recently learning Three.js.
+- 💻 Recently interested in [Elysia.js](https://elysiajs.com/)
 
 - 😜 I also know a little about **physics**, **quantum computing** and **machine learning**.
 
