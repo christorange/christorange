@@ -55,7 +55,8 @@
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+TypeScript   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.04 %
+Prisma       0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.96 %
 ```
 
 <!--END_SECTION:waka-->
