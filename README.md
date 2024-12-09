@@ -1,11 +1,9 @@
 
-- 📚 Student, web developer, sometimes also a UI & UX designer.
+- Fullstack developer, guitarist and bassist.
 
-- 💻 Recently interested in [Elysia.js](https://elysiajs.com/)
+- Dreaming of having my own band, and moving to Japan.
 
-- 😜 I also know a little about **physics**, **quantum computing** and **machine learning**.
-
-- 📫 Reach me at: christol.yu@outlook.com
+- Reach me at: christolyu@gmail.com
 
 <br/>
 <h3 align="center">Languages & Tools</h3>
@@ -42,23 +40,5 @@
   ![overview_dark](https://raw.githubusercontent.com/christorange/githubStats/master/generated/overview.svg#gh-dark-mode-only)
   ![overview_light](https://raw.githubusercontent.com/christorange/githubStats/master/generated/overview.svg#gh-light-mode-only)
 
-</div>
-
-<br/>
-
-<p align="center">⏱ Weekly Coding Stat</p>
-
-<div align="center">
-  
-  <!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-  
 </div>
 
