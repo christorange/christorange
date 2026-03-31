@@ -1,7 +1,5 @@
 
-- Fullstack developer, guitarist and bassist.
-
-- Dreaming of having my own band, and moving to Japan.
+- Fullstack developer and guitarist.
 
 - Reach me at: christolyu@gmail.com
 
